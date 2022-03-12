@@ -1,4 +1,8 @@
 # REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
+## me levanto a las 6
+#desayuno 
+me aseo y me voy a trabajar
+habro mi puesto en el mercado a las 8am
 
 
 
@@ -7,3 +11,5 @@
 
 
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
+## 2022-1968
+2022+5
