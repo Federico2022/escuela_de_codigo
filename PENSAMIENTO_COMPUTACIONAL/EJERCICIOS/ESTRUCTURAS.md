@@ -43,7 +43,9 @@
 * asigno( numero1 numero2 numero3)
 * resultado (1,2,3)
 *  mostrar 
-*   fin ![image](https://user-images.githubusercontent.com/101481278/159816066-25cb4efb-50fe-4f33-9f4d-f70c4f6e8f07.png)
+*   fin 
+*   ![image](https://user-images.githubusercontent.com/101481278/160023047-44f27bb1-5994-4a7c-930e-7d03a22dcb30.png)
+
 
 *   
 * 
