@@ -13,20 +13,29 @@
 3. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
 4. inicio
 5. (numero de metros * yardas)
-6.ingreso("10 metros  * yardas0.09)
-asignar(10)*.9
-resultado=10*.09
-mostrar 90 yardas
-fin
- 
+6. ingreso("10 metros  * yardas0.09)
+7.asignar(10)*.9 
+8.resultado=10*.09
+9.mostrar 90 yardas
+10.fin
+
+
 7. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
-inicio
-declarar(base*altira)/2
-ingresar(base=5 altura=6 /2)
-asignar(5*6/2=)
-resultado 30/2
-resultado= 15
-fin
+8.  inicio
+9.  declarar(base*altira)/2
+10.  ingresar(base=5 altura=6 /2)
+11.  resultado 30/2
+12.  resultado= 15
+13.  fin
+
+
+
+
+
+
+
+
+
 
 
 
