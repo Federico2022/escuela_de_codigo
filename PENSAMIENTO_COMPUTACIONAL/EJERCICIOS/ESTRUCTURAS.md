@@ -17,9 +17,9 @@
 * mostrar("ingreso letra . s y n")
 * asignar(letra S o n)
 * ressultado (s o n)
-* mostrar (S o n)
+* mostrar (S o n)![image](https://user-images.githubusercontent.com/101481278/160020305-0aeab9f3-a14b-4522-a2e5-c018806cabd8.png)
+
 * fin
-* ![image](https://user-images.githubusercontent.com/101481278/159814572-b5531038-8c73-4ec4-b540-b6c6e75cc261.png)
 
 * Un programa que pida una letra y detecte si es una vocal. 
 * inicio
@@ -28,8 +28,12 @@
 * asigno("letra que solo sea una  vocal")
 * resultado(solamente vocales)
 * mostrar (solamente vocales)
-* fin ![image](https://user-images.githubusercontent.com/101481278/159815044-0427b54a-c1e2-4d1e-9787-a54c5d8865f1.png)
-* 
+* fin 
+* ![image](https://user-images.githubusercontent.com/101481278/160020661-708cc9cb-b40b-487c-b85a-8bba4f15c6fd.png)
+
+
+
+
 
 *
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
