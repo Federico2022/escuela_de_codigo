@@ -76,5 +76,6 @@
 * mostrar paco10, emailsafari@yahoo.co.mx
 * confirmar datos paco10,email, safari@yahoo.com.mx
 * fin
-* 
-![image](https://user-images.githubusercontent.com/101481278/160025225-c73f2b7c-8eba-4a0a-a006-e152fd452749.png)
+* ![image](https://user-images.githubusercontent.com/101481278/160027249-4bb47e84-b823-4e91-981b-f9d9f28e4d83.png)
+
+
