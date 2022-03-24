@@ -46,5 +46,18 @@
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * inicio
-* declare
+* declare(elegir candidato, candidato A partido rojo, candidato B partido partido verde, cadidato c partido azul)
+* mostrar(" candidatoa partido rojo , candidatob partido verde, candidato c partido azul) si no ( son candidato a, candidatob, candidatoc) en toncese voto no( otro candidato no registrado o no votar)
+* asignar (candidato a rojo , candodato b verde, candidato c azul)
+* resultado si(" candidato rojo, candidatob verde, candidato azul entonces votas") si votas ( entonces votastes) no (otro candidato no regristrado no votar)
+* fin
+* 
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
+* inicio 
+* declaro una contraseña y un coreo electronico que deben de ser confirmado por usuario
+* mostrar("ingreso una contrseña y correo electronico, confirmar por el usuario")
+* asignar ( contraseña y correo electronico confirmarmado por el usuario)resultado contrseña paco10, email safariyahoo.co.mx) confirmar datos
+* mostrar paco10, emailsafari@yahoo.co.mx
+* confirmar datos paco10,email, safari@yahoo.com.mx
+* fin
+* 
