@@ -56,7 +56,8 @@
 * asigno mes y numero
 * resultado en caso (mes) hago caso mostrar(enero19 caso2 mostrar(febrero2)caso3(marzo3) caso4(abril 4) caso5(mayo5)caso6(junio6) caso7(julio7) caso8(agosto8) caso9(SEPTIEMBRE9)caso10(octubre10) caso11(noviembre10) caso12(diciembre10)
 * fin
-* 
+* ![image](https://user-images.githubusercontent.com/101481278/160027336-d394b905-b4b2-4248-95bd-1a9f7e79cc2c.png)
+
 * 
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
 * inicio
