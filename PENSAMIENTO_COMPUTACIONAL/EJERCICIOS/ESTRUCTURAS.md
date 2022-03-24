@@ -33,7 +33,18 @@
 
 *
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
+* incio
+* declaro 3 numeros menor a mayor
+* ingreso (3 numeros de menor a mayor
+* asigno( numero1 numero2 numero3)
+* resultado (1,2,3)
+*  mostrar 
+*   fin ![image](https://user-images.githubusercontent.com/101481278/159816066-25cb4efb-50fe-4f33-9f4d-f70c4f6e8f07.png)
+
+*   
 * 
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
+* inicio
+* declare
 * Para un programa que almacene la cadena de caracteres para una contraseña y email, pregunte al usuario por la contraseña y email e imprima por pantalla si la contraseña y el email introducidos por el usuario coincide con los guardadados en las variables.
