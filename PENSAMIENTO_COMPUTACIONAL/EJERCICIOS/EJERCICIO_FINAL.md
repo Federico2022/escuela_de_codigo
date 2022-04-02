@@ -21,6 +21,10 @@ Algoritmo adivina_el_numero
     Sino
         Escribir "El numero era: ",num_secreto
     FinSi
+    
+    ![image](https://user-images.githubusercontent.com/101481278/161403597-cedd1ab7-1588-4a84-970f-22e1346a5e66.png)
+
+    
 FinAlgoritmo
 
 Ingresa al siguiente link para el resumen final
