@@ -28,3 +28,4 @@
 22. asigno numero que me indique si es parrr o no
 23. resultado numero que es inpar
 24. fin
+![image](https://user-images.githubusercontent.com/101481278/161451881-60f16ca4-8530-4303-b326-74ec2f0ad957.png)
