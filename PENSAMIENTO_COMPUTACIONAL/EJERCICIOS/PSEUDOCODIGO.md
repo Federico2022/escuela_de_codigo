@@ -63,12 +63,50 @@ Escribir "felicidades has aprobado, tu promedio es de ",promedio
 SiNo
 Escribir "Lo siento has reprobado, tu promedio es de ", promedio
 Fin Si
-FinAlgoritmo
-![image](https://user-images.githubusercontent.com/101481278/161453085-81215158-c361-4081-a3da-c8fbc1439001.png)
+FinAlgoritm
+
 
 7. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
-8. 
+
+
 9. Un programa que pida una letra y detecte si es una vocal.
-10. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
-11. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
-12. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+10. Algoritmo detecta_si_es_vocal
+	Escribir "ingresa una letra"
+	Leer vocal
+	Segun vocal Hacer
+	"a"|"A":
+	Escribir "la letra ",vocal," es una vocal"
+	"e"|"E":
+	Escribir "la letra ",vocal," es una vocal"
+	"i"||"i":
+	Escribir "la letra ",vocal," es una vocal"
+
+	
+	"o"||"O":
+	Escribir "la letra ",vocal," es una vocal"
+	"u"||"U":
+	Escribir "la letra ",vocal," es una vocal"
+	De Otro Modo:
+	Escribir "la letra ",vocal," no es vocal"
+	Fin Segun
+	
+	FinAlgoritmo
+	![image](https://user-images.githubusercontent.com/101481278/161453267-bbb53a93-9cca-453c-b9d8-6fc49537a670.png)
+
+
+11. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
+12. 
+13. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
+14. Algoritmo nombre_impreso_un_numero_de_veces
+	Escribir "ingresa tu nombre"
+	Leer nombre
+	Escribir "ingresa el número de veces que deseas imprimir tu nombre"
+	Leer num
+	Para i<-1 Hasta num Con Paso 1 Hacer
+	Escribir nombre
+	Fin Para
+	FinAlgoritmo
+	![image](https://user-images.githubusercontent.com/101481278/161453374-2eda7c02-3e44-4379-9eaa-e19f738866c0.png)
+
+	
+15. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
