@@ -67,7 +67,15 @@ FinAlgoritm
 
 
 7. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
-
+Algoritmo par_o_impar
+	Escribir "ingresa un número"
+	Leer num
+	Si num % 2 == 0 Entonces
+	escribir "el número ",num," es par"
+	SiNo
+	escribir "el número ",num, " es impar"
+	Fin Si
+	FinAlgoritmo
 
 9. Un programa que pida una letra y detecte si es una vocal.
 10. Algoritmo detecta_si_es_vocal
@@ -95,9 +103,44 @@ FinAlgoritm
 
 
 11. Programa que pida 3 números y los muestre en pantalla de menor a mayor.
-12. 
-13. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
-14. Algoritmo nombre_impreso_un_numero_de_veces
+lgoritmo orderar_numeros
+	Escribir "ingresa un número"
+	Leer num1
+	Escribir "ingresa otro número"
+	Leer num2
+	Escribir "ingresa otro número"
+	Leer num3
+	Si num1<num2 && num1<num3 Entonces
+	Si num2<num3 Entonces
+	Escribir num1,num2,num3
+	SiNo
+	Escribir num1,num3,num2
+	Fin Si
+	SiNo
+	Si num2<num1 && num2<num3 Entonces
+	Si num1<num3 Entonces
+	Escribir num2,num1,num3
+	SiNo
+	Escribir num2,num3,num2
+	Fin Si
+	SiNo
+	Si num3<num1 Entonces
+	Si num1<num2 Entonces
+	Escribir num3,num1,num2
+	SiNo
+	Escribir num3,num2,num1
+	Fin Si
+	SiNo
+	Escribir "hay algún número repetido"
+	Fin Si
+	Fin Si
+	Fin Si
+		FinAlgoritmo
+
+
+13. 
+14. Realizar un algoritmo y diagrama de flujo para un programa que permita ingresar un nombre y una cantidad numérica para que así después el programa escriba este nombre tantas veces como su cantidad ingresada.
+15. Algoritmo nombre_impreso_un_numero_de_veces
 	Escribir "ingresa tu nombre"
 	Leer nombre
 	Escribir "ingresa el número de veces que deseas imprimir tu nombre"
@@ -110,3 +153,14 @@ FinAlgoritm
 
 	
 15. Realiza un algoritmo y diagrama de flujo de un programa que solicita números al usuario y haga la suma de todos ellos. El algoritmo debe solicitar números siempre y cuando el número ingresado sea positivo, si el usuario ingresa un número no positivo el algoritmo debe terminar e imprimir la suma de los números positivos.
+16. 
+Algoritmo tablas_de_multiplicar
+	Escribir "ingresa un numero"
+	Leer num
+	Mientras num > 0 Hacer
+	resultado<-resultado + num
+	Escribir "ingresa un numero"
+	Leer num
+	Fin Mientras
+	Escribir "el resultado de la suma de los número positivos es ",resultado
+	FinAlgoritmo
