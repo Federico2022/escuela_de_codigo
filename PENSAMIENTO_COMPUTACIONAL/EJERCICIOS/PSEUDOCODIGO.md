@@ -64,6 +64,8 @@ SiNo
 Escribir "Lo siento has reprobado, tu promedio es de ", promedio
 Fin Si
 FinAlgoritm
+![image](https://user-images.githubusercontent.com/101481278/161847729-7e1cd87d-c07e-4891-81f1-ae7689b100aa.png)
+
 
 
 7. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
@@ -76,9 +78,12 @@ Algoritmo par_o_impar
 	escribir "el número ",num, " es impar"
 	Fin Si
 	FinAlgoritmo
+	![image](https://user-images.githubusercontent.com/101481278/161847827-5093e757-5222-4fc2-950e-3c804f5c5340.png)
+
 
 9. Un programa que pida una letra y detecte si es una vocal.
-10. Algoritmo detecta_si_es_vocal
+10. 
+11. Algoritmo detecta_si_es_vocal
 	Escribir "ingresa una letra"
 	Leer vocal
 	Segun vocal Hacer
@@ -88,6 +93,7 @@ Algoritmo par_o_impar
 	Escribir "la letra ",vocal," es una vocal"
 	"i"||"i":
 	Escribir "la letra ",vocal," es una vocal"
+	
 
 	
 	"o"||"O":
