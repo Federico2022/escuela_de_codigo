@@ -26,16 +26,16 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 2 retardos se le suspende un día y si tiene 3 o más retardos se le da de
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
-
+si el empleado llega puntual en todo el mes ( si el empleado llega temprano 7>= a 7 es = a record perfecto y se le felicta. si tiene retardo se le regaña 5<= a 7 si tiene 3<0 a 7 se le da de baja.
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
-mayor que “F”. ¿Cuál es el menor de todos?
+mayor que “F”. ¿Cuál es el menor de todos? "g es menor que E"
 
 ## OPERADORES LOGICOS
 Reto. Evalúa las siguientes expresiones a la derecha.
-1) (45<120 OR 12<120) =
-2) (6! =6) && (12>22)) =
-3) ¬ (128<145 && 12>9) =
-4) “Daniela”< >”DANIELA” =
-5) 10*20< >210 =
+1) (45<120 OR 12<120) = verdadero
+2) (6! =6) && (12>22)) =falso
+3) ¬ (128<145 && 12>9) =verdadero
+4) “Daniela”< >”DANIELA” =falso
+5) 10*20< >210 = verdadero
