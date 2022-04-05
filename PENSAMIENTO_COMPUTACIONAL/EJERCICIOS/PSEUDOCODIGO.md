@@ -142,6 +142,8 @@ lgoritmo orderar_numeros
 	Fin Si
 	Fin Si
 		FinAlgoritmo
+		![image](https://user-images.githubusercontent.com/101481278/161848219-8796cc77-9754-4fe4-b125-eee7998e1e52.png)
+
 
 
 13. 
@@ -170,3 +172,4 @@ Algoritmo tablas_de_multiplicar
 	Fin Mientras
 	Escribir "el resultado de la suma de los número positivos es ",resultado
 	FinAlgoritmo
+![image](https://user-images.githubusercontent.com/101481278/161848300-571aa1d1-9a51-419a-8bc1-54ebd7da8798.png)
